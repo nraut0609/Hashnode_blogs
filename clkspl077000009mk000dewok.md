@@ -4,11 +4,10 @@ Basics Commands."
 datePublished: Tue Aug 01 2023 19:45:16 GMT+0000 (Coordinated Universal Time)
 cuid: clkspl077000009mk000dewok
 slug: introduction-to-linux-basics-commands
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690992904610/2783179a-6d23-4398-b1f1-39655a97b280.jpeg
 tags: linux, linux-for-beginners, linux-basics, linux-commands, 90daysofdevops
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690916111974/0f3a8518-d8a0-4dc6-8053-9ef5809173cb.jpeg align="center")
 
 ## History of Linux🐧
 
@@ -217,7 +216,6 @@ tags: linux, linux-for-beginners, linux-basics, linux-commands, 90daysofdevops
       useradd [options] username
     ```
     
-
 * What is the Linux command to check your present working directory?
     
     ```plaintext
