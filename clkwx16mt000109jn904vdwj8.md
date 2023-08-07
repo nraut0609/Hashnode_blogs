@@ -3,7 +3,8 @@ title: "🧰 What is a package manager in Linux?"
 datePublished: Fri Aug 04 2023 18:24:52 GMT+0000 (Coordinated Universal Time)
 cuid: clkwx16mt000109jn904vdwj8
 slug: what-is-a-package-manager-in-linux
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691173167492/ae9c467b-e326-433f-83b9-e8cfc3d7a272.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691417172417/75d0071b-2f4f-4631-aaf9-f7857278b2fa.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691417199624/f59da80a-daed-42cc-a268-d0ea2749b60b.png
 tags: linux, packages, installation, linux-for-beginners, linux-basics
 
 ---
