@@ -1,10 +1,10 @@
 ---
 title: "Deep Learning with Python for 
         ♾️DevOps Engineers♾️"
-datePublished: Thu Aug 10 2023 15:02:58 GMT+0000 (Coordinated Universal Time)
+datePublished: Tue Jan 10 2023 15:35:31 GMT+0000 (Coordinated Universal Time)
 cuid: cll5agn1g000609l7fzxrdtwj
 slug: deep-learning-with-python-for-devops-engineers
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691679683763/bfb24613-ff86-454d-aba6-887a5fae36d8.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691681625752/9e4795c3-db8d-4b5d-a20f-cd8f49d730d1.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1691679759882/9766c7e4-ae36-4d33-85e4-a3088ab426ef.png
 tags: python, python3, devops, python-beginner, devops-journey
 
