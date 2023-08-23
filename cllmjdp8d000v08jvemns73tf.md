@@ -119,7 +119,7 @@ Click on the "New Item" button on the sidebar
 1. Give your project a name, select "Freestyle project" as the job type, and click on the "OK" button
     
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/D4D12AQHVYTmwYegovA/article-inline_image-shrink_1500_2232/0/1674557925276?e=1698278400&v=beta&t=2qsOhzWPHuowYNoFge1mdCIqd0uRMZJnxzuPemIY9vU align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692816945784/ba892b04-c85f-4b37-b34c-1921b7056c85.png align="center")
 
 1. In the build section, we have an option ‘Execute Shell’ by which we can write some commands or code:
     
@@ -128,13 +128,15 @@ Click on the "New Item" button on the sidebar
 
 6\. In the command field, enter the command to print "Hello World", such as **echo "Hello World!!"**.
 
-![No alt text provided for this image](https://media.licdn.com/dms/image/D4D12AQE5PQIlc2KXMg/article-inline_image-shrink_1000_1488/0/1674558036882?e=1698278400&v=beta&t=HtjQC11f4oFnbNZNsi2E0qb5ATuZvA3KfqzG6EKKqYo align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692816822620/7779a84c-127c-4402-af1c-c5185ec3418a.png align="center")
 
 7\. Click on the "Save" button at the bottom of the page to create the project.
 
 8\. Once the project is created, click on the "Build Now" link to run the project.
 
-you can now be seen changes in Console output
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692816735587/56f2fac7-82ad-40e6-9d15-fdd12182345c.png align="center")
+
+You can now see changes in the Console output
 
 ---
 
