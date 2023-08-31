@@ -53,7 +53,7 @@ In the 'Jenkins-agent' instance install Jenkins, the docker.
 
 **2)Generate SSH keys on the “Jenkins-master” EC2 instance**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692672132412/53fab075-9f2b-4a74-8ac3-e86b47296a0e.png?auto=compress,format&format=webp align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693494967507/168d8c65-46f1-46ce-b249-b528c11ed102.png align="center")
 
 Add public key from “Jenkins-master” instance to “Jenkins-agent” instance under location “.ssh/authorized\_keys”
 
@@ -70,8 +70,6 @@ Add public key from “Jenkins-master” instance to “Jenkins-agent” instanc
 Go to the Jenkins dashboard, and click on “Manage Jenkins” Then
 
 Click on “Manage Nodes and Clouds”
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1692672449078/02b0db9c-d115-44f1-866b-4d6c1f8519d8.png?auto=compress,format&format=webp align="left")
 
 To create a node click on "New Node" on the left side
 
