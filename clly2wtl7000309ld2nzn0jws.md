@@ -16,7 +16,7 @@ Jenkins is an open-source free automation tool used to build and test software p
 
 Some typical reasons as to why Jenkins is so widely used are:
 
-* Developers and testers use Jenkins to detect defects in the software development lifecycle and automate the testing of builds. 
+* Developers and testers use Jenkins to detect defects in the software development lifecycle and automate the testing of builds.
     
 * They use it to continuously monitor the code in real-time and integrate changes into the build.
     
@@ -35,18 +35,18 @@ Some of the crucial features of Jenkins are the following:
     
 * Provides pipeline support
     
-* Fast release cycles 
+* Fast release cycles
     
 * Easy upgrades
     
 
 ### **3\. What is Groovy in Jenkins?**
 
-* Apache Groovy is a dynamic object-oriented programming language used as a scripting language for Java platforms. 
+* Apache Groovy is a dynamic object-oriented programming language used as a scripting language for Java platforms.
     
-* Groovy is used to orchestrate the Jenkins pipeline and enables different teams to contribute to the work in different languages. 
+* Groovy is used to orchestrate the Jenkins pipeline and enables different teams to contribute to the work in different languages.
     
-* Groovy's syntax is very similar to that of Java, making it more seamless with the Java interface. 
+* Groovy's syntax is very similar to that of Java, making it more seamless with the Java interface.
     
 * The language has several features like Java compatibility and Development support.
     
@@ -55,7 +55,7 @@ Some of the crucial features of Jenkins are the following:
 
 Follow the steps mentioned below to install Jenkins:
 
-* Install Java 
+* Install Java
     
 * Install Apache Tomcat Server
     
@@ -79,9 +79,9 @@ D:\\&gt;Java -jar Jenkins.war
 
 ### **6\. What is "Continuous Integration" with reference to Jenkins?**
 
-* Continuous Integration is a development practice where the codes can be integrated into a shared repository. 
+* Continuous Integration is a development practice where the codes can be integrated into a shared repository.
     
-* The practice uses automated verifications for the early detection of code problems. 
+* The practice uses automated verifications for the early detection of code problems.
     
 * Continuous Integration triggers the build to find and identify bugs present in the code.
     
@@ -102,7 +102,7 @@ CI/CD Pipeline or Continuous Integration/ Continuous Delivery is considered the 
 
 ### **9\. What is a Jenkins pipeline?**
 
-* The pipeline represents the continuous delivery and continuous integration of all the jobs in the SDLC and DevOps life cycle. 
+* The pipeline represents the continuous delivery and continuous integration of all the jobs in the SDLC and DevOps life cycle.
     
 * The Jenkins pipeline is a set of plugins that support implementation and integration of continuous delivery pipelines into Jenkins. It connects this pipeline in a particular format by Jenkins.
     
@@ -113,7 +113,7 @@ CI/CD Pipeline or Continuous Integration/ Continuous Delivery is considered the 
 
 The three different types of Jenkins pipelines are:
 
-* CI/CD pipeline 
+* CI/CD pipeline
     
 * Scripted pipeline
     
@@ -148,7 +148,7 @@ Jenkins is typically integrated with these two components:
 
 1. Version Control systems like Git and SVN (Apache Subversion)
     
-2. Build tools like [Maven](https://www.simplilearn.com/tutorials/maven-tutorial/what-is-maven) 
+2. Build tools like [Maven](https://www.simplilearn.com/tutorials/maven-tutorial/what-is-maven)
     
 
 ### **14\. Name some of the useful plugins in Jenkins.**
@@ -170,9 +170,9 @@ Some of the plugins in Jenkins include:
 
 ### **15\. How can you create a backup and copy files in Jenkins?**
 
-* Jenkins stores all the settings, builds scripts, and logs in the home directory. 
+* Jenkins stores all the settings, builds scripts, and logs in the home directory.
     
-* Then, if you want to create a backup of this Jenkins set up all you have to do is copy this directory. 
+* Then, if you want to create a backup of this Jenkins set up all you have to do is copy this directory.
     
 * The job directory may also be copied to clone a job or rename the directory.
     
@@ -234,7 +234,7 @@ You don't have to worry, and you just have to restart the pipeline from the poin
 
 Here’s the process in which Jenkins works:
 
-* Jenkins checks changes in repositories regularly, and developers must secure their code regularly. 
+* Jenkins checks changes in repositories regularly, and developers must secure their code regularly.
     
 * Once the changes are defined, Jenkins detects them and uses them to prepare a new build.
     
@@ -245,7 +245,7 @@ Here’s the process in which Jenkins works:
 * After the successful testing phase, Jenkins shares the results with the team using it.
     
 
-### **21\. What is Jenkinsfile?** 
+### **21\. What is Jenkinsfile?**
 
 A Jenkins file is a text file that has a definition of a Jenkins pipeline and is checked into the source control repository. It enables code review and iteration on the pipeline. It also permits an audit trail for the pipeline.
 
@@ -271,13 +271,13 @@ To integrate Git with Jenkins, you can follow the following steps:
 
 * First, create a new Jenkins job and open the Jenkins dashboard.
     
-* Now, enter the desired project name and select the job type. 
+* Now, enter the desired project name and select the job type.
     
 * Click on OK.
     
-* Then enter the project information. 
+* Then enter the project information.
     
-* After that, visit the 'Source Code Management' tab. 
+* After that, visit the 'Source Code Management' tab.
     
 
 ![Genkins](https://www.simplilearn.com/ice9/free_resources_article_thumb/Jenkins_Git_Integration.JPG align="left")
@@ -297,7 +297,7 @@ Source: [https://plugins.jenkins.io/git/](https://plugins.jenkins.io/git/)
 
 * Kubernetes is a portable and open-source platform that is used for managing workloads and services that are containerized.
     
-* With the help of Kubernetes, the group of hosts running the Linux containers can be easily and efficiently managed. 
+* With the help of Kubernetes, the group of hosts running the Linux containers can be easily and efficiently managed.
     
 * To manage a Continuous Delivery (CD) pipeline, the most efficient way is to deploy Jenkins with Kubernetes Engine.
     
@@ -335,7 +335,7 @@ Some of the Jenkins environmental variables are:
     
 * $BUILD\_URL - Indicates the URL where the results of the builds can be found.
     
-* $JENKINS\_URL - This is set to the URL of the Jenkins master that is responsible for running the build.  
+* $JENKINS\_URL - This is set to the URL of the Jenkins master that is responsible for running the build.
     
 
 ## **Advance Level Jenkins Interview Questions**
@@ -405,14 +405,14 @@ Source: [https://www.jenkins.io/doc/book/pipeline/multibranch/](https://www.jenk
 
 ### **35\. How can the parameters be defined in Jenkins?**
 
-In Jenkins, a build can take many input parameters to execute. 
+In Jenkins, a build can take many input parameters to execute.
 
 * To define parameters for the job, select the “this project is parameterized” box.
     
 * The drop down “Add Parameter” is enabled with the parameter types list. Any number of parameters may be added in the list.
     
 
-There are several parameter types provided in the list. 
+There are several parameter types provided in the list.
 
 ### **36\. Explain the ways to configure Jenkins node agent to communicate with Jenkins master?**
 
@@ -425,15 +425,15 @@ There are two ways to configure Jenkins node agent to communicate with Jenkins m
 
 ### **37\. What is the use of the JENKINS\_HOME directory?**
 
-* JENKINS\_HOME directory is the place where all the settings, logs, and configurations are stored. It stores all this information in XML files. 
+* JENKINS\_HOME directory is the place where all the settings, logs, and configurations are stored. It stores all this information in XML files.
     
-* The directory contains a subdirectory for every Jenkins build job being operated. 
+* The directory contains a subdirectory for every Jenkins build job being operated.
     
 * Every directory has two subdirectories:  builds and workspace., and some other files as well.
     
 * These sub directories are important, as the workspace directory is located at the place where Jenkins is building the project, and it contains the source code.
     
-* The builds directory stores the history of all the builds performed for this job. 
+* The builds directory stores the history of all the builds performed for this job.
     
 
 ![home directory](https://www.simplilearn.com/ice9/free_resources_article_thumb/Jenkins_Home_Directory.png align="left")
@@ -446,7 +446,7 @@ It includes job configs, plugins, logs, plugin configuration, etc. Jenkins provi
 
 A trigger is something that defines when and how the pipelines should be executed. There may be several triggers like a pull request trigger that is used to deploy a pull request, or there may be a stage trigger that is used in configuring how each stage in the release will be triggered.
 
-### **40\. What are the three security mechanisms Jenkins uses to authenticate users?** 
+### **40\. What are the three security mechanisms Jenkins uses to authenticate users?**
 
 The three mechanisms are as follows:
 
@@ -454,6 +454,15 @@ The three mechanisms are as follows:
     
 * Jenkins can use a lightweight Directory Access Protocol (LDAP) server to authenticate users.
     
-* We can configure Jenkins to employ the application server's authentication mechanism upon which we deploy it.
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693420526017/56208802-0711-438c-ba87-22613fba3b4a.jpeg align="center")
+
+We can configure Jenkins to employ the application server's authentication mechanism upon which we deploy it.
+
+---
+
+### Thank you for reading this blog! 📖 Hope you have gained some value.
+
+Please follow me on Linkedin- [www.linkedin.com/in/nikhil-raut-965133b4](http://www.linkedin.com/in/nikhil-raut-965133b4)
+
+To know more [https://linktr.ee/nikhil\_raut](https://linktr.ee/nikhil_raut)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1693420526017/56208802-0711-438c-ba87-22613fba3b4a.jpeg align="center")
