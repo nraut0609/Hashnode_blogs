@@ -8,7 +8,7 @@ tags: interview, kubernetes, devops, jenkins, trainwithshubham
 
 ---
 
-## Basic Level **Jenkins Interview Questions**
+# A) Basic Level **Jenkins Interview Questions**
 
 ### **1\. What is Jenkins?**
 
@@ -177,7 +177,7 @@ Some of the plugins in Jenkins include:
 * The job directory may also be copied to clone a job or rename the directory.
     
 
-# **Intermediate Level Jenkins Interview Questions**
+# **B) Intermediate-Level Jenkins Interview Questions**
 
 ### **16\. How can you deploy a custom build of a core plugin?**
 
@@ -338,7 +338,7 @@ Some of the Jenkins environmental variables are:
 * $JENKINS\_URL - This is set to the URL of the Jenkins master that is responsible for running the build.
     
 
-## **Advance Level Jenkins Interview Questions**
+# **C) Advance Level Jenkins Interview Questions**
 
 ### **31\. What are some of the critical aspects of the Jenkins pipeline?**
 
