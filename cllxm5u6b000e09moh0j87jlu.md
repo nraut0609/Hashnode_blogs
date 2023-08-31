@@ -118,11 +118,7 @@ This example demonstrates the basic process of creating and executing a pipeline
     
 2. Select the "Pipeline script" option.
     
-3. Choose the "Pipeline script from SCM" option and provide the necessary repository details. (In this case, you're following the "Hello World" example, so you might choose to use a simple script or select Hello World or a Jenkinsfile in your repository.)
-    
-    **COPY**
-    
-    **COPY**
+3. Choose the "Pipeline script from SCM" option and provide the necessary repository details. (In this case, you're following the "Hello World" example, so you might choose to use a simple script or select Hello World or a Jenkinsfile in your repository.
     
     ```bash
       pipeline {
