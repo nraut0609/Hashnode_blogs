@@ -117,7 +117,7 @@ At the heart of Kubernetes lies the API Server, assuming a pivotal role.
 
 It serves as the conduit for the Kubernetes API, connecting disparate components with the cluster.
 
-When engagement with the cluster occurs through Kubectl or any other client, the API server becomes the recipient of these requests.
+When engagement with the cluster occurs through Kubectl or any other client, the API server receives these requests.
 
 Subsequently, the API server undertakes the validation and processing of these requests, safeguarding the consistency and precision of the cluster's state.
 
@@ -126,3 +126,5 @@ Subsequently, the API server undertakes the validation and processing of these r
 ### Thank you for reading this blog! 📖 Hope you have gained some value.
 
 Please follow me on Linkedin- [www.linkedin.com/in/nikhil-raut-965133b4](http://www.linkedin.com/in/nikhil-raut-965133b4)
+
+To know more [https://linktr.ee/nikhil\_raut](https://linktr.ee/nikhil_raut)
