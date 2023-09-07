@@ -1,8 +1,8 @@
 ---
-title: "Working with Namespaces and Services in Kubernetes"
+title: "Day:33 Working with Namespaces and Services in Kubernetes"
 datePublished: Thu Sep 07 2023 13:39:33 GMT+0000 (Coordinated Universal Time)
 cuid: clm97t7je000l08jzdhrw5yel
-slug: working-with-namespaces-and-services-in-kubernetes
+slug: day33-working-with-namespaces-and-services-in-kubernetes
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694093873028/dff74896-4394-4b40-a258-69316e885f28.png
 tags: docker, kubernetes, devops, 90daysofdevops, trainwithshubham
 
