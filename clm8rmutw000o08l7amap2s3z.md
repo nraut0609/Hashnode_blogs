@@ -14,8 +14,6 @@ tags: ansible, devops, terraform, 90daysofdevops, trainwithshubham
 
 ## About Terraform
 
-Certainly, here's a comparison of Ansible and the previously provided information about Terraform in bullet points:
-
 ### **Terraform:**
 
 * Infrastructure as Code (IaC) tool by HashiCorp.
@@ -32,6 +30,8 @@ Certainly, here's a comparison of Ansible and the previously provided informatio
     
 * Supports collaboration on infrastructure by allowing configurations to be committed to version control.
     
+
+## About Ansible
 
 ### **Ansible:**
 
