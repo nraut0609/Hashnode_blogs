@@ -8,7 +8,61 @@ tags: ansible, devops, terraform, 90daysofdevops, trainwithshubham
 
 ---
 
-**W**hen looking for an infrastructure-as-code (IaC) tool, you’ll find several options, including Terraform and Ansible. Both of these IaS tools provision infrastructure in the cloud, but they have distinct differences that make one better to use than the other in certain environments, which makes each tool more suitable than the other for certain use cases. Terraform is more of a provisioning tool, while Ansible is used for the conﬁguration of cloud infrastructure. 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1694260054581/9bd4092a-f1fd-4b7b-a199-f353b58b0156.png align="center")
+
+**W**hen looking for an infrastructure-as-code (IaC) tool, you’ll find several options, including Terraform and Ansible. Both of these IaS tools provision infrastructure in the cloud, but they have distinct differences that make one better to use than the other in certain environments, which makes each tool more suitable than the other for certain use cases. Terraform is more of a provisioning tool, while Ansible is used for the conﬁguration of cloud infrastructure.
+
+## About Terraform
+
+Certainly, here's a comparison of Ansible and the previously provided information about Terraform in bullet points:
+
+### **Terraform:**
+
+* Infrastructure as Code (IaC) tool by HashiCorp.
+    
+* Uses declarative configuration files for defining and managing infrastructure.
+    
+* Manages the lifecycle of infrastructure.
+    
+* Capable of managing infrastructure across multiple cloud platforms.
+    
+* Employs a human-readable configuration language for quick infrastructure code development.
+    
+* Utilizes Terraform's state to track changes in resources during deployments.
+    
+* Supports collaboration on infrastructure by allowing configurations to be committed to version control.
+    
+
+### **Ansible:**
+
+* Automation tool for configuration management, application deployment, and task automation.
+    
+* Agentless and communicates with managed hosts over SSH (primarily).
+    
+* Uses YAML-based playbooks to define tasks and configurations.
+    
+* Idempotent, ensuring that tasks can be safely rerun.
+    
+* Supports declarative automation logic through playbooks.
+    
+* Utilizes inventory files to specify and group-managed hosts.
+    
+* Provides a wide range of built-in modules for various automation tasks.
+    
+* Has a vibrant community and ecosystem with contributed playbooks and roles.
+    
+* Integrates with other tools and services for enhanced functionality.
+    
+* Excels at configuration management and enforcing system configurations.
+    
+* Capable of orchestrating complex tasks and workflows.
+    
+* Supports ad-hoc command execution for quick tasks.
+    
+* Extensible with custom modules and roles.
+    
+* Suitable for managing servers, network devices, and cloud resources on various platforms.
+    
 
 # What Does Terraform Do?
 
@@ -64,4 +118,4 @@ Although Ansible and Terraform are different platforms, you can invoke Ansible f
 
 ## Can Ansible replace Terraform?
 
-Ansible can be used to deploy some infrastructure, but it can’t completely replace Terraform. It deploys infrastructure, and then Ansible will execute after infrastructure deployment to conﬁgure it. They work well bundled together in a DevOps environment.
+**Ansible** can be used to deploy some infrastructure, but it can’t completely replace Terraform. It deploys infrastructure, and then Ansible will execute after infrastructure deployment to conﬁgure it. They work well bundled together in a DevOps environment.
