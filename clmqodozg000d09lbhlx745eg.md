@@ -3,6 +3,8 @@ title: "Kubernetes Important Interview Questions with Answers."
 datePublished: Tue Sep 19 2023 18:55:27 GMT+0000 (Coordinated Universal Time)
 cuid: clmqodozg000d09lbhlx745eg
 slug: kubernetes-important-interview-questions-with-answers
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1695150589059/ca636013-4f2e-463d-a4e9-f1e8eb974019.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1695150611201/74296efe-347a-493b-8337-9dff274abcc9.png
 tags: interview, kubernetes, devops, 90daysofdevops, trainwithshubham
 
 ---
