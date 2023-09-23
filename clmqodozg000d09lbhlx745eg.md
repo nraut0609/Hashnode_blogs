@@ -75,7 +75,7 @@ The master node dignifies the node that controls and manages the set of worker n
 
 This kind validates and provides configuration data for the API objects. It includes pods, services, replication controllers. Also, it provides REST operations and also the frontend of the cluster. This frontend cluster state is shared through which all other component interacts.
 
-> If you need additional answers to interview questions, please consult this link. "[https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing](https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing)
+> <mark>If you need additional answers to interview questions, please consult this link. </mark> "[https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing](https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing)
 
 ### **11\. What is a node in Kubernetes?**
 
@@ -142,7 +142,7 @@ The primary controller managers that can run on the master node are the endpoint
 
 Kubernetes uses etcd as a distributed key-value store for all of its data, including metadata and configuration data, and allows nodes in Kubernetes clusters to read and write data. Although etcd was purposely built for CoreOS, it also works on a variety of operating systems (e.g., Linux, BSB, and OS X) because it is open-source. Etcd represents the state of a cluster at a specific moment in time and is a canonical hub for state management and cluster coordination of a Kubernetes cluster.
 
-> If you need additional answers to interview questions, please consult this link. "[https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing](https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing)
+> If you need additional answers to interview questions, please consult this link. <mark>"</mark>[<mark>https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing</mark>](https://drive.google.com/file/d/1l8bHZb4T5dHZAwSTHQLw71gUOE6gp6sf/view?usp=sharing)
 
 ### **26\. What are the different services within Kubernetes?**
 
