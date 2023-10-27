@@ -1,8 +1,8 @@
 ---
-title: "It's all About AWS Cloud -(Basic)"
+title: "Day-38 About AWS Cloud -(Basic)"
 datePublished: Thu Oct 26 2023 12:03:59 GMT+0000 (Coordinated Universal Time)
 cuid: clo74z1tn000o09mleowzca14
-slug: its-all-about-aws-cloud-basic
+slug: day-38-about-aws-cloud-basic
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698240460968/eb0d10c0-b956-4880-945c-dd927b8f3517.png
 tags: cloud, aws, devops, iam, trainwithshubham
 
