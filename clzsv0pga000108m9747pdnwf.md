@@ -1,8 +1,11 @@
 ---
 title: "Getting Started with Argo CD"
+seoTitle: "argo cd"
 datePublished: Tue Aug 13 2024 20:13:01 GMT+0000 (Coordinated Universal Time)
 cuid: clzsv0pga000108m9747pdnwf
 slug: getting-started-with-argo-cd
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1723580419977/94f0752a-2081-4a30-a365-0dea02d8af22.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1723580445558/dccc5033-2780-4073-879d-e1beba01595e.png
 tags: kubernetes, devops, devops-articles, kubernetes-container, argocd
 
 ---
